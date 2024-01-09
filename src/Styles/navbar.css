@@ -1,0 +1,14 @@
+.container-fluid{
+    background:#260e08;
+   
+}
+.link{
+  
+    font-size: 30px;
+}
+.link:hover{
+    color:#f56342;
+}
+.me-auto{
+    color:aliceblue
+}
