@@ -1,23 +1,23 @@
-.container-fluid{
+.navbar{
     background:#260e08;
+    
    
 }
 .link{
-  
+  color: #fcba03;
     font-size: 30px;
 }
 .link:hover{
-    color:#f56342;
+    color:#fc3503;
 }
-.me-auto{
-    color:aliceblue
-}
+
 .auto{
     text-align: right;
     padding:20px;
     font-size:20px;
     text-transform: uppercase;
+    color:#fcba03;
 }
 .auto:hover{
-    color:#f56342;
+    color:#fc3503;
 }
