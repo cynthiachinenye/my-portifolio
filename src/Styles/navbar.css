@@ -12,3 +12,12 @@
 .me-auto{
     color:aliceblue
 }
+.auto{
+    text-align: right;
+    padding:20px;
+    font-size:20px;
+    text-transform: uppercase;
+}
+.auto:hover{
+    color:#f56342;
+}

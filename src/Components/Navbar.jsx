@@ -12,11 +12,11 @@ const Header = () => {
       <Navbar.Toggle className="bg-light" aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="me-auto text-light">
-          <Nav.Link href="#home" className='text-light '>Home</Nav.Link>
-          <Nav.Link href="#link" className='text-light '>About Me</Nav.Link>
-          <Nav.Link href="#link" className='text-light '>Skills</Nav.Link>
-          <Nav.Link href="#link" className='text-light '>Project</Nav.Link>
-          <Nav.Link href="#link" className='text-light '>Contact</Nav.Link>
+          <Nav.Link href="#home" className='text-light auto'>Home</Nav.Link>
+          <Nav.Link href="#link" className='text-light auto'>About Me</Nav.Link>
+          <Nav.Link href="#link" className='text-light auto'>Skills</Nav.Link>
+          <Nav.Link href="#link" className='text-light auto'>Project</Nav.Link>
+          <Nav.Link href="#link" className='text-light auto'>Contact</Nav.Link>
           
         </Nav>
       </Navbar.Collapse>

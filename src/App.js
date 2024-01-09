@@ -4,10 +4,11 @@ import {BrowserRouter, Route, Routes} from "react-router-dom"
 import Navbar from "./Components/Navbar";
 function App() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid ">
     <BrowserRouter>
     <Navbar/>
     <Routes>
+
     
     </Routes>
     </BrowserRouter>
